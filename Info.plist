@@ -11,13 +11,15 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Calculator Module</string>
+	<string>Calculator Plugin</string>
+	<key>CFBundleDisplayName</key>
+	<string>Calculator Plugin</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.1.2</string>
+	<string>2.2.0</string>
 	<key>CFBundleVersion</key>
-	<string>200</string>
+	<string>229</string>
 	<key>QSActions</key>
 	<dict>
 		<key>CalculatorCalculateFormulaAction</key>

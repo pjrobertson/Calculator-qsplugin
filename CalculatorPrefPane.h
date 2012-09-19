@@ -6,8 +6,6 @@
 //  Copyright 2004 TildeSoft. All rights reserved.
 //
 
-#import <QSInterface/QSPreferencePane.h>
-
 // Strings used in com.quicksilver.plist prefs for storing the calculator settings
 #define kCalculatorDisplayPref @"CalculatorDisplayPref"
 #define kCalculatorCopyResultToClipboard @"CalculatorCopyResultToClipboard"
